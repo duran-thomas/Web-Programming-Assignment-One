@@ -1,2 +1,1 @@
-Disruptive Technology
-Web Programming Assignment 1
+Web Assignment On Distrubtive Technology
