@@ -1,2 +1,2 @@
-# kh40sx.github.io
+Disruptive Technology
 Web Programming Assignment 1
